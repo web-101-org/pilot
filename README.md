@@ -22,5 +22,5 @@ a Hello-world full stack web project
 2. authenticate sign ins  
 3. maintain sign-in sessions- using cookies?  
 
-
-For formatting Readme.md refer [Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+------------------------------------------------
+For formatting README.md refer [Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
