@@ -1,11 +1,10 @@
 [Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 # pilot
-
 a Hello-world full stack web project 
-##dummy domain : www.cheapdomain.club ##
+## domain : www.cheapdomain.club ##
 
 #plan:
-#front end pages :
+##front end pages :##
 1. sign up page   
 2. sign in page  
 3. home page :
@@ -19,7 +18,7 @@ a Hello-world full stack web project
   4. mobile wallets  
   5. upi?  
     
-#back end: use node.js ,my sql?
+##back end:## use node.js ,my sql?
 1. add new accounts on sign up  
 2. authenticate sign ins  
 3. maintain sign-in sessions- using cookies?  
