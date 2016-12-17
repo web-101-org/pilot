@@ -1,4 +1,3 @@
-[Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 # pilot
 a Hello-world full stack web project 
 ## domain : www.cheapdomain.club ##
@@ -24,3 +23,4 @@ a Hello-world full stack web project
 3. maintain sign-in sessions- using cookies?  
 
 
+[Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
